@@ -4,7 +4,7 @@
 - 📫 How to reach me-
 -                    @parv.spamz om instagram
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: endure and renounce 
+- ⚡ endure and renounce 
 
 <!---
 Parv-spamz/Parv-spamz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
