@@ -31,10 +31,12 @@ jobs:
 
       - name: Deploy SVGs to output branch
         run: |
-          cd dist
-          git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git checkout --orphan output-temp
+          git reset
+          mv dist/github-snake.svg ./github-snake.svg
+          mv dist/github-snake-dark.svg ./github-snake-dark.svg
+          git add github-snake.svg github-snake-dark.svg
           git commit -m "Generate contribution snake SVGs"
-          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:output
+          git push -f origin output-temp:output
