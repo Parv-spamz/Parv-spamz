@@ -73,9 +73,8 @@
 An institutional education platform built to coordinate academic administration and intelligence workflows across multi-school environments.
 - **Core Capabilities:** Student information records, academic grading lifecycles, automated marksheet and document generation, credential verification, and administrative operational workflows.
 - **Analytical Layer:** Consolidates student performance metrics to deliver actionable academic insights and performance monitoring for school administrations.
-- **Open-Source Testing & Analytics Suite:** The formal testing harness, GPA computation algorithms, prerequisite DAG engine, and benchmarking framework are published open-source in [`Gradenest-tests`](https://github.com/Parv-spamz/Gradenest-tests).
-
-[![View Repository](https://img.shields.io/badge/View_Repository-Gradenest--tests-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parv-spamz/Gradenest-tests)
+- **Testing & Quality Engine:** High-coverage automated testing harness, GPA computation algorithms, prerequisite DAG engines, and performance benchmark suites.
+- **Status:** *Internal repository — maintained privately for engineering evaluation and demo validation.*
 
 ---
 
