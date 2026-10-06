@@ -68,13 +68,14 @@
 ## 🚀 Selected Work & Systems
 
 ### 🎓 GradeNest
-**Private Platform • Academic Intelligence & School Management**
+**Institutional Education Platform & Analytics Framework**
 
 An institutional education platform built to coordinate academic administration and intelligence workflows across multi-school environments.
 - **Core Capabilities:** Student information records, academic grading lifecycles, automated marksheet and document generation, credential verification, and administrative operational workflows.
 - **Analytical Layer:** Consolidates student performance metrics to deliver actionable academic insights and performance monitoring for school administrations.
-- **Architecture:** Multi-school institutional structure with role-delineated permissions.
-- **Status:** *Proprietary platform — source code intentionally maintained in a private repository.*
+- **Open-Source Testing & Analytics Suite:** The formal testing harness, GPA computation algorithms, prerequisite DAG engine, and benchmarking framework are published open-source in [`Gradenest-tests`](https://github.com/Parv-spamz/Gradenest-tests).
+
+[![View Repository](https://img.shields.io/badge/View_Repository-Gradenest--tests-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parv-spamz/Gradenest-tests)
 
 ---
 
