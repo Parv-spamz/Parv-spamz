@@ -109,39 +109,26 @@ A product concept focused on addressing apparel fit friction by categorizing cus
 
 ## 📈 GitHub Activity & Stats
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parv-spamz&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parv-spamz&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parv-spamz&theme=github_dark" alt="Parv's GitHub Profile Details" height="175"/>
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parv-spamz&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parv-spamz&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parv-spamz&theme=github_dark" alt="Parv's Top Languages by Repo" height="175"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Parv-spamz&hide_border=true&theme=github-dark-dimmed">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Parv-spamz&hide_border=true&theme=default">
-  <img src="https://streak-stats.demolab.com/?user=Parv-spamz&hide_border=true&theme=github-dark-dimmed" alt="Parv's GitHub Streak"/>
-</picture>
-
-</div>
-
----
-
-## 📉 Contribution Activity
-
 <p align="center">
-  <a href="https://github.com/Parv-spamz" title="View Parv's GitHub profile">
-    <img src="https://github-activity-graph.luckylinux.dev/graph?username=Parv-spamz&custom_title=Parv%27s%20Contribution%20Graph&days=31&bg_color=151326&color=a9b2e8&line=79aaff&point=ffffff&area=true&hide_border=true&height=300&radius=8&grid=true" alt="Parv's GitHub contribution activity graph for the last 31 days" width="100%"/>
+  <a href="https://github.com/Parv-spamz">
+    <img width="100%" src="https://github-activity-graph.luckylinux.dev/graph?username=Parv-spamz&custom_title=GitHub%20Activity%20Trends&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=false&border_color=30363d&radius=8&days=31" alt="Parv's GitHub Activity Graph"/>
   </a>
 </p>
+
+<table border="0" align="center" width="100%">
+  <tr align="center">
+    <td align="center" width="40%" style="border: none; padding: 4px;">
+      <a href="https://github.com/Parv-spamz">
+        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parv-spamz&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages"/>
+      </a>
+    </td>
+    <td align="center" width="60%" style="border: none; padding: 4px;">
+      <a href="https://github.com/Parv-spamz">
+        <img height="195" src="https://streak-stats.demolab.com/?user=Parv-spamz&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&border_radius=8" alt="GitHub Streak"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
