@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Assets
 
 on:
   schedule:
@@ -20,6 +20,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: custom_title=GitHub%20Activity%20Trends&bg_color=0d1117&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=false&border_color=30363d&radius=8&days=31
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
@@ -28,7 +36,7 @@ jobs:
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#a855f7
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a855f7
 
-      - name: Push snake assets to output branch
+      - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

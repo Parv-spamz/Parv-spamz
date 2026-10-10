@@ -85,6 +85,12 @@ A full-stack clinical appointment coordination platform engineered to mitigate w
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Parv-spamz">
+    <img width="100%" src="https://raw.githubusercontent.com/Parv-spamz/Parv-spamz/output/activity-graph.svg?v=1" alt="GitHub Activity Trends"/>
+  </a>
+</p>
+
 <div align="center">
 
 <table align="center" width="860">
