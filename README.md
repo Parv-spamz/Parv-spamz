@@ -149,9 +149,9 @@ A product concept focused on addressing apparel fit friction by categorizing cus
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parv-spamz/Parv-spamz/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parv-spamz/Parv-spamz/output/github-snake.svg">
-    <img alt="Parv's Contribution Snake Animation" src="https://raw.githubusercontent.com/Parv-spamz/Parv-spamz/output/github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parv-spamz/Parv-spamz/output/github-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parv-spamz/Parv-spamz/output/github-snake.svg?v=2">
+    <img alt="Parv's Contribution Snake Animation" src="https://raw.githubusercontent.com/Parv-spamz/Parv-spamz/output/github-snake.svg?v=2" width="100%">
   </picture>
 </p>
 
