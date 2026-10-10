@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -16,6 +16,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: custom_title=GitHub%20Activity%20Trends&bg_color=0d1117&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=false&border_color=30363d&radius=8&days=31
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -24,9 +35,8 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
             dist/github-snake-dark.svg?color_snake=purple&color_dots=#161b22,#006d32,#26a641,#39d353,#56f578
-            dist/github-snake-dark.gif?color_snake=purple&color_dots=#161b22,#006d32,#26a641,#39d353,#56f578
 
-      - name: Publish snake
+      - name: Publish assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
