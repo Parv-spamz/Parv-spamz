@@ -24,6 +24,10 @@
 
 </div>
 
+<p align="center">
+  <img src="./assets/parv-terminal-portrait.png" alt="Parv Arora rendered as a terminal ASCII portrait in a terminal window" width="560"/>
+</p>
+
 ---
 
 ## 🧭 Focus & Areas of Interest
@@ -132,6 +136,16 @@ A product concept focused on addressing apparel fit friction by categorizing cus
 </picture>
 
 </div>
+
+---
+
+## 📉 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/Parv-spamz" title="View Parv's GitHub profile">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parv-spamz&custom_title=Parv%27s%20Contribution%20Graph&days=31&bg_color=151326&color=a9b2e8&line=79aaff&point=ffffff&area=true&hide_border=true&height=300&radius=8&grid=true" alt="Parv's GitHub contribution activity graph for the last 31 days" width="100%"/>
+  </a>
+</p>
 
 ---
 
