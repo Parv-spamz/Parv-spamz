@@ -31,18 +31,37 @@
 
 ## Technical Competencies
 
-| Domain | Core Technologies & Frameworks |
-| :--- | :--- |
-| **Business Intelligence & Data Engineering** | `SQL` `PostgreSQL` `Tableau` `Power BI` `Microsoft Excel` `ETL Pipelines` |
-| **Applied Modeling & Analytics** | `Python` `Pandas` `NumPy` `scikit-learn` `Matplotlib` `Seaborn` `Statistical Modeling` |
-| **Backend & Core Infrastructure** | `Java` `C++` `Flask` `SQLite` `Git` `GitHub Actions` `REST APIs` |
+<div align="center">
+
+<p align="center">
+  <sub><b>LANGUAGES</b></sub><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,html,css&theme=dark" alt="Programming Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>CORE SYSTEMS &amp; DATABASES</b></sub><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,docker,linux,bash&theme=dark" alt="Core Systems and Databases" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>TOOLING &amp; FRAMEWORKS</b></sub><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,react,tailwind,git,githubactions,postman&theme=dark" alt="Tooling and Frameworks" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## Featured Systems
 
 ### GradeNest
-`Internal Architecture` • Academic Operations & Performance Intelligence
+`[Internal Architecture]` • Academic Operations & Performance Intelligence
 
 An enterprise academic framework engineered to unify administration, credentialing, and performance intelligence across multi-institution environments.
 
@@ -54,7 +73,7 @@ An enterprise academic framework engineered to unify administration, credentiali
 ---
 
 ### Doctor Appointment Scheduling System
-`Public System` • Healthcare Operations & Queue Optimization
+`[Public Production System]` • Healthcare Operations & Queue Optimization
 
 A full-stack clinical appointment coordination platform engineered to mitigate wait cascades and eliminate schedule drift in high-volume practices.
 
@@ -69,11 +88,34 @@ A full-stack clinical appointment coordination platform engineered to mitigate w
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/parv-arora2209/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:aro.parth@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=38bdf8" alt="Email" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/parv.spamz/?hl=en"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=38bdf8" alt="Instagram" /></a>
-  &nbsp;
-  <a href="https://github.com/Parv-spamz"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=38bdf8" alt="GitHub" /></a>
+
+<h3><code>Parv-spamz@github ~ $ ./connect.sh --channel=all</code></h3>
+
+<table align="center" width="860">
+  <tr align="center">
+    <td align="center" width="50%">
+      <a href="mailto:aro.parth@gmail.com">
+        <img src="https://img.shields.io/badge/Direct%20Inquiries-aro.parth%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=38bdf8&labelColor=161b22" height="32" alt="Direct Mail" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.linkedin.com/in/parv-arora2209/">
+        <img src="https://img.shields.io/badge/Professional%20Network-parv--arora2209-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8&labelColor=161b22" height="32" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="50%">
+      <a href="https://github.com/Parv-spamz">
+        <img src="https://img.shields.io/badge/Developer%20Identity-Parv--spamz-0d1117?style=flat-square&logo=github&logoColor=38bdf8&labelColor=161b22" height="32" alt="GitHub" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.instagram.com/parv.spamz/?hl=en">
+        <img src="https://img.shields.io/badge/Visual%20%2F%20Personal-%40parv.spamz-0d1117?style=flat-square&logo=instagram&logoColor=38bdf8&labelColor=161b22" height="32" alt="Instagram" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
