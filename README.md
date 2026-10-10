@@ -111,7 +111,7 @@ A product concept focused on addressing apparel fit friction by categorizing cus
 
 <p align="center">
   <a href="https://github.com/Parv-spamz">
-    <img width="100%" src="https://raw.githubusercontent.com/Parv-spamz/Parv-spamz/output/activity-graph.svg" alt="Parv's GitHub Activity Graph"/>
+    <img width="100%" src="https://raw.githubusercontent.com/Parv-spamz/Parv-spamz/output/activity-graph.svg?v=1" alt="Parv's GitHub Activity Graph"/>
   </a>
 </p>
 
