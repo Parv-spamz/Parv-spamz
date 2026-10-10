@@ -6,9 +6,9 @@
 
 <br/>
 
-<h3><code>Parv-spamz@github ~ $ ./contributions.sh</code></h3>
+<h3><code>Parv-spamz@github ~ $ ./snake.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap" />
+<img src="https://raw.githubusercontent.com/Parv-spamz/Parv-spamz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="860" />
 
 <table align="center" width="860" style="border-collapse: collapse; border: none; margin: 12px auto 0 auto;">
   <tr align="center">
