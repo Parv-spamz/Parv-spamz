@@ -112,15 +112,15 @@ A product concept focused on addressing apparel fit friction by categorizing cus
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Parv-spamz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Parv-spamz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parv-spamz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="Parv's GitHub Stats" height="175"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parv-spamz&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parv-spamz&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parv-spamz&theme=github_dark" alt="Parv's GitHub Profile Details" height="175"/>
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Parv-spamz&layout=compact&langs_count=8&hide_border=true&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Parv-spamz&layout=compact&langs_count=8&hide_border=true&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parv-spamz&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Parv's Top Languages" height="175"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parv-spamz&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parv-spamz&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parv-spamz&theme=github_dark" alt="Parv's Top Languages by Repo" height="175"/>
 </picture>
 
 <br/><br/>
