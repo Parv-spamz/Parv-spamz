@@ -1,0 +1,40 @@
+name: Update Contribution Heatmap
+
+on:
+  schedule:
+    - cron: '15 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Scrape Contribution Data
+        run: python scripts/fetch_contributions.py
+
+      - name: Render Animated Heatmap SVG
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Commit and Push Heatmap Artifacts
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution heatmap [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg"

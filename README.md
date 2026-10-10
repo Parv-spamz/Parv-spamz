@@ -2,154 +2,78 @@
 
 # Parv Arora
 
-### Data Science • Business Analytics • Product Systems
+### Data • Analytics • Product • Systems
 
-<p>
-  Translating data, analytics, and operational challenges into high-utility systems, intuitive dashboards, and structured products.
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parv-arora2209/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-  &nbsp;
-  <a href="mailto:aro.parth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Parv"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/parv.spamz/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile"/>
-  </a>
-</p>
+<h3><code>Parv-spamz@github ~ $ ./contributions.sh</code></h3>
 
-</div>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap" />
 
----
-
-## 🧭 Focus & Areas of Interest
-
-- 📊 **Business Analytics & Intelligence** — Exploratory data analysis, KPI visualization, business metrics, and turning raw data into strategic operational decisions.
-- 🧪 **Data Science & Applied Modeling** — Statistical analysis, data manipulation, feature exploration, and predictive workflows using Python and machine-learning libraries.
-- 🛠️ **Product & Systems Architecture** — Designing end-to-end applications that solve tangible operational friction with multi-role workflows and clean system logic.
-- 💼 **Technology + Business Strategy** — Bridging the space between technical feasibility, operational constraints, and product-market usability.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Analytics & Business Intelligence
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</p>
-
-### Data Science & Modeling
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-</p>
-
-### Programming & Workflow Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
----
-
-## 🚀 Selected Work & Systems
-
-### 🎓 GradeNest
-**Institutional Education Platform & Analytics Framework**
-
-An institutional education platform built to coordinate academic administration and intelligence workflows across multi-school environments.
-- **Core Capabilities:** Student information records, academic grading lifecycles, automated marksheet and document generation, credential verification, and administrative operational workflows.
-- **Analytical Layer:** Consolidates student performance metrics to deliver actionable academic insights and performance monitoring for school administrations.
-- **Testing & Quality Engine:** High-coverage automated testing harness, GPA computation algorithms, prerequisite DAG engines, and performance benchmark suites.
-- **Status:** *Internal repository — maintained privately for engineering evaluation and demo validation.*
-
----
-
-### 🩺 Doctor Appointment Scheduling System
-**Public Project • Healthcare Operations & Delay Mitigation**
-
-A full-stack clinical appointment coordination platform engineered to reduce patient wait times and eliminate schedule cascades for healthcare providers.
-- **Intelligent Rescheduling:** Dynamically recalculates slot timings based on procedure duration and active procedural delays to preserve appointment integrity.
-- **Operational Features:** Dual role-based portals for practitioners and patients, configurable buffer/break periods between appointments, and real-time SMS status updates via Twilio.
-- **Stack:** Python (Flask), SQLite, React (TypeScript & Vite), Tailwind CSS, Twilio API.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-Doctor_Appointment_Scheduling_System-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parv-spamz/Parv_Arora_Anshika_Trikha_Doctor_Appointment_Scheduling_System)
-
----
-
-### 👕 Morphs
-**Private Concept • Apparel Fit & Personalization**
-
-A product concept focused on addressing apparel fit friction by categorizing customer profiles through body-type geometry rather than static standard sizing charts.
-- **Focus:** Consumer experience design, anthropometric data-driven fit logic, product roadmapping, and personalization strategy.
-- **Status:** *Private product concept and research.*
-
----
-
-## 🔒 Proprietary Work & Repositories
-
-> [!NOTE]
-> **Why some projects are not public:**
-> A major portion of my practical engineering and analytics work centers on proprietary systems and operational software developed for production environments. Because these codebases incorporate administrative workflows, institutional data structures, or proprietary business concepts, their repositories are kept private. The featured overviews above accurately reflect their scope, architecture, and technology domains.
-
----
-
-<h2 align="center">⚡ Activity & Insights</h2>
-
-<p align="center">
-  <a href="https://github.com/Parv-spamz">
-    <img width="100%" src="https://raw.githubusercontent.com/Parv-spamz/Parv-spamz/output/activity-graph.svg?v=1" alt="Parv's GitHub Activity Graph"/>
-  </a>
-</p>
-
-<table border="0" align="center" width="100%">
+<table align="center" width="860" style="border-collapse: collapse; border: none; margin: 12px auto 0 auto;">
   <tr align="center">
-    <td align="center" width="40%" style="border: none; padding: 4px;">
+    <td align="center" width="45%" style="border: none; padding: 4px;">
       <a href="https://github.com/Parv-spamz">
-        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parv-spamz&layout=compact&langs_count=6&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages"/>
+        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parv-spamz&layout=compact&langs_count=6&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages" />
       </a>
     </td>
-    <td align="center" width="60%" style="border: none; padding: 4px;">
+    <td align="center" width="55%" style="border: none; padding: 4px;">
       <a href="https://github.com/Parv-spamz">
-        <img height="195" src="https://streak-stats.demolab.com/?user=Parv-spamz&background=0d1117&border=30363d&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=c9d1d9&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=8b949e&border_radius=8" alt="GitHub Streak"/>
+        <img height="195" src="https://streak-stats.demolab.com/?user=Parv-spamz&background=0d1117&border=30363d&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&border_radius=8" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
 </table>
 
+</div>
+
+---
+
+## Technical Competencies
+
+| Domain | Core Technologies & Frameworks |
+| :--- | :--- |
+| **Business Intelligence & Data Engineering** | `SQL` `PostgreSQL` `Tableau` `Power BI` `Microsoft Excel` `ETL Pipelines` |
+| **Applied Modeling & Analytics** | `Python` `Pandas` `NumPy` `scikit-learn` `Matplotlib` `Seaborn` `Statistical Modeling` |
+| **Backend & Core Infrastructure** | `Java` `C++` `Flask` `SQLite` `Git` `GitHub Actions` `REST APIs` |
+
+---
+
+## Featured Systems
+
+### GradeNest
+`Internal Architecture` • Academic Operations & Performance Intelligence
+
+An enterprise academic framework engineered to unify administration, credentialing, and performance intelligence across multi-institution environments.
+
+- **Administrative Lifecycles:** Centralizes student records, grading workflows, and automated generation of tamper-evident marksheets and institutional credentials.
+- **Academic Intelligence:** Ingestion pipelines aggregate historical academic data into structured performance metrics and diagnostic cohorts for leadership oversight.
+- **Computation DAG Engine:** Implements directed acyclic graph (DAG) evaluation engines for prerequisite validation, GPA/CGPA computation, and automated graduation audits.
+- **Verification & Resilience:** Comprehensive automated test harnesses validating edge grading models, concurrency constraints, and high-load batch processing.
+
+---
+
+### Doctor Appointment Scheduling System
+`Public System` • Healthcare Operations & Queue Optimization
+
+A full-stack clinical appointment coordination platform engineered to mitigate wait cascades and eliminate schedule drift in high-volume practices.
+
+- **Dynamic Slot Recalculation:** Adjusts downstream appointment schedules in real-time based on actual procedural durations, mitigating operational bottlenecks.
+- **Dual Role-Based Portals:** Purpose-built interfaces separating practitioner clinical schedule management from frictionless patient booking.
+- **Buffer Architecture:** Configurable procedure-specific buffer windows designed to absorb patient turnaround delays without disrupting doctor throughput.
+- **Event-Driven Communication:** Integrated Twilio SMS notification pipeline for appointment confirmations, live delay notifications, and rescheduling triggers.
+- **Stack & Architecture:** Python (Flask), React (TypeScript & Vite), SQLite, Tailwind CSS, Twilio API.
+
+[View Source Repository](https://github.com/Parv-spamz/Parv_Arora_Anshika_Trikha_Doctor_Appointment_Scheduling_System)
+
 ---
 
 <div align="center">
-
-### 💬 Let's Connect
-
-Open to discussions around data science, business analytics, product development, and systems design.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/parv-arora2209/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/parv-arora2209/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:aro.parth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aro.parth%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="mailto:aro.parth@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=38bdf8" alt="Email" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/parv.spamz/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
+  <a href="https://www.instagram.com/parv.spamz/?hl=en"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=38bdf8" alt="Instagram" /></a>
+  &nbsp;
+  <a href="https://github.com/Parv-spamz"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=38bdf8" alt="GitHub" /></a>
 </div>
