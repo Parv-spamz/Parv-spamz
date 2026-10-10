@@ -24,10 +24,6 @@
 
 </div>
 
-<p align="center">
-  <img src="./assets/parv-terminal-portrait.png" alt="Parv Arora rendered as a terminal ASCII portrait in a terminal window" width="560"/>
-</p>
-
 ---
 
 ## 🧭 Focus & Areas of Interest
