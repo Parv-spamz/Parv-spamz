@@ -56,30 +56,57 @@
 
 ---
 
-## Featured Systems
+## Featured Systems & Projects
 
-### GradeNest
-`[Internal Architecture]` • Academic Operations & Performance Intelligence
+### 01. CRoyaleAI
+`[Autonomous Decision Systems]` • **Reinforcement Learning · Game AI · Decision Systems**
 
-An enterprise academic framework engineered to unify administration, credentialing, and performance intelligence across multi-institution environments.
+> Autonomous agent for Clash Royale combining spatial policy learning, replay distillation, and constrained reinforcement learning to make high-dimensional decisions under imperfect information.
 
-- **Administrative Lifecycles:** Centralizes student records, grading workflows, and automated generation of tamper-evident marksheets and institutional credentials.
-- **Academic Intelligence:** Ingestion pipelines aggregate historical academic data into structured performance metrics and diagnostic cohorts for leadership oversight.
-- **Computation DAG Engine:** Implements directed acyclic graph (DAG) evaluation engines for prerequisite validation, GPA/CGPA computation, and automated graduation audits.
-- **Verification & Resilience:** Comprehensive automated test harnesses validating edge grading models, concurrency constraints, and high-load batch processing.
+- **Public-Information Observation:** Enforces a strict observation contract that completely excludes hidden opponent state.
+- **Large-Scale Demonstration Distillation:** Trained on a verified corpus of 14,818 matches and 3.5M+ tick-synchronized records for spatial policy learning.
+- **Kinematic Simulation & Latency Modeling:** Fine-tunes imitation policies in a deterministic C++ simulation and compensates for physical input latency with forward kinematic extrapolation.
+
+**Tech Stack & Methods:** `Python` `C++` `Spatial Transformers` `PPO` `GAE` `KL-Regularized RL` `Android Native Extraction`
 
 ---
 
-### Doctor Appointment Scheduling System
-`[Public Production System]` • Healthcare Operations & Queue Optimization
+### 02. GradeNest
+`[Private Architecture]` • **Full-Stack Engineering · EdTech · Secure Multi-Tenant Systems**
 
-A full-stack clinical appointment coordination platform engineered to mitigate wait cascades and eliminate schedule drift in high-volume practices.
+> Multi-tenant academic governance platform managing institutional administration, marks verification, report cards, credentials, and compliance workflows.
 
-- **Dynamic Slot Recalculation:** Adjusts downstream appointment schedules in real-time based on actual procedural durations, mitigating operational bottlenecks.
-- **Dual Role-Based Portals:** Purpose-built interfaces separating practitioner clinical schedule management from frictionless patient booking.
-- **Buffer Architecture:** Configurable procedure-specific buffer windows designed to absorb patient turnaround delays without disrupting doctor throughput.
-- **Event-Driven Communication:** Integrated Twilio SMS notification pipeline for appointment confirmations, live delay notifications, and rescheduling triggers.
-- **Stack & Architecture:** Python (Flask), React (TypeScript & Vite), SQLite, Tailwind CSS, Twilio API.
+- **Tenant Isolation & Security:** Implements role-based institutional workflows with database-level isolation using PostgreSQL Row-Level Security (RLS).
+- **Maker-Checker Governance:** Dual-authorization marks verification, report-card approval lifecycles, and cryptographic document verification with SHA-256 and QR signatures.
+- **Operations & Scheduling:** Includes constraint-based timetable scheduling, fee tracking pipelines, and auditable administrative operations.
+
+**Tech Stack:** `Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `PostgreSQL` `asyncpg` `Pydantic` `Zustand` `TanStack Query` `WeasyPrint`
+
+---
+
+### 03. Tapewright-Quant / FinPulse-Apex
+`[Quantitative Engine]` • **Quantitative Research · Financial Simulation · Risk Analytics**
+
+An open-source quantitative trading research engine designed to test trading ideas under realistic market dynamics and execution assumptions.
+
+- **Discrete-Event Simulation:** Combines multi-source market-data ingestion, discrete-event order simulation, execution-cost modeling, and portfolio-risk analytics.
+- **Execution & Bias Auditing:** Investigates slippage, order-book queue dynamics, look-ahead bias, overfitting, and strategy robustness across market regimes.
+- **Reproducible Framework:** Supports empirical research with standardized experiment records, data integrity checks, and validation tooling.
+
+**Tech Stack:** `Python 3.10+` `SQLite` `MySQL` `Streamlit` `Alpaca` `Polygon` `Yahoo Finance`
+
+---
+
+### 04. Doctor Appointment Scheduling System
+`[Public Portfolio]` • **Healthcare Automation · Scheduling · Notifications**
+
+A lightweight appointment scheduling system that dynamically adjusts patient queues when clinical procedures run late, reducing unnecessary clinic waiting.
+
+- **Dynamic Slot Recalculation:** Uses procedure-duration-aware scheduling logic to recalculate downstream appointment times when delays occur.
+- **Event-Driven Communication:** Stores appointment information in SQLite with an integrated Twilio SMS pipeline for live delay notifications and confirmations.
+- **Clinical Interface:** Streamlined dark-themed interface separating practitioner schedule management from frictionless patient booking.
+
+**Tech Stack:** `Python` `Flask` `HTML` `JavaScript` `SQLite` `Twilio SMS API`
 
 [View Source Repository](https://github.com/Parv-spamz/Parv_Arora_Anshika_Trikha_Doctor_Appointment_Scheduling_System)
 
