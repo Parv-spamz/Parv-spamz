@@ -58,7 +58,22 @@
 
 ## Featured Systems & Projects
 
-### 01. CRoyaleAI — AI That Plays Clash Royale
+### 01. HEATtoLOAD — India Peak Electricity Demand & Thermal Sensitivity
+`Empirical Econometrics · Climate Risk · Energy Telemetry · Production Glassmorphism`
+
+An end-to-end, reproducible empirical investigation quantifying the non-linear relationship between ambient temperature, humidity, and daily peak electricity demand across 16 major Indian states (>85% of national consumption).
+
+- **Grid-India & ERA5 Telemetry:** Pairs 735 consecutive days of official SCADA telemetry with ECMWF ERA5 reanalysis to isolate weather-driven cooling demand.
+- **Thermal Sensitivity Modeling:** Discovers a national marginal sensitivity of +2,761.9 MW/°C (+1.62%/°C) with state-level cooling inflection thresholds between 22°C and 27°C.
+- **Glassmorphic Cockpit:** Interactive analytics cockpit with real-time scenario simulation, 10/10 verified test suite, and cryptographically hashed claims.
+
+**Tech Stack:** `Python` `DuckDB` `Polars` `ECMWF ERA5` `Grid-India SCADA` `LightGBM` `JavaScript` `CSS Glassmorphism` `Pytest`
+
+[View Source](https://github.com/Parv-spamz/HeatToLoad)
+
+---
+
+### 02. CRoyaleAI — AI That Plays Clash Royale
 `Game AI · Machine Learning · Reinforcement Learning`
 
 An AI agent that learns to play Clash Royale using match replays and simulated games. It chooses which card to play and where to place it without accessing information hidden from the player.
@@ -73,7 +88,7 @@ An AI agent that learns to play Clash Royale using match replays and simulated g
 
 ---
 
-### 02. GradeNest — School Management Platform
+### 03. GradeNest — School Management Platform
 `[Private Project]` • `Full-Stack Development · Education · Data Security`
 
 A school management platform that brings student records, marks, report cards, certificates, timetables, and fee records into one system.
@@ -86,7 +101,7 @@ A school management platform that brings student records, marks, report cards, c
 
 ---
 
-### 03. Tapewright-Quant — Trading Research Tool
+### 04. Tapewright-Quant — Trading Research Tool
 `Quantitative Finance · Trading Simulation · Risk Analysis`
 
 An open-source tool for testing trading strategies and checking how they might perform under different market conditions.
@@ -101,7 +116,7 @@ An open-source tool for testing trading strategies and checking how they might p
 
 ---
 
-### 04. Doctor Appointment Scheduling System
+### 05. Doctor Appointment Scheduling System
 `Healthcare · Web Development · Automation`
 
 A doctor appointment system that adjusts the schedule when a procedure runs late and helps patients avoid unnecessary waiting.
