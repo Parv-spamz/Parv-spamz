@@ -2,7 +2,7 @@
 
 # Parv Arora
 
-### Data • Science • Production • Systems
+### Data • Science • Business • Analytics
 
 <br/>
 
