@@ -12,7 +12,7 @@
   <tr align="center">
     <td align="center" width="45%" style="border: none; padding: 4px;">
       <a href="https://github.com/Parv-spamz">
-        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parv-spamz&layout=compact&langs_count=6&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages" />
+        <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=Parv-spamz&layout=compact&langs_count=6&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages" />
       </a>
     </td>
     <td align="center" width="55%" style="border: none; padding: 4px;">
