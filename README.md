@@ -88,16 +88,16 @@ An AI agent that learns to play Clash Royale using match replays and simulated g
 
 ---
 
-### 03. GradeNest — School Management Platform
-`[Private Project]` • `Full-Stack Development · Education · Data Security`
+### 03. GradeNest — Multi-School Academic Records & Credential Platform
+`[Private Project]` • `Full-Stack Development · Multi-Tenant SaaS · Cryptographic Verification`
 
-A school management platform that brings student records, marks, report cards, certificates, timetables, and fee records into one system.
+A multi-tenant school management platform that brings marks entry, maker-checker review, report card generation, certificates, exams, timetables, and fee ledgers into one database-isolated system.
 
-- **Keeps School Records Organised:** Gives administrators, teachers, and students access to the information they are allowed to see.
-- **Adds Review and Approval:** Marks and report cards pass through review steps before they are finalised.
-- **Creates Verifiable Documents:** Generates report cards and certificates with QR codes that help verify their authenticity.
+- **Maker-Checker Marks Workflow:** Subject teachers enter marks, class teachers verify or return lists and submit merged class spreadsheets, and administrators generate and release whole-class report card batches.
+- **Database-Level Tenant Isolation:** Enforces PostgreSQL Row-Level Security (RLS) on every tenant table, dynamic assignment-based permissions, `httpOnly` cookie sessions with CSRF protection, Keycloak OIDC, and an append-only audit log.
+- **Tamper-Evident PDFs & AI Insights:** Renders sealed report cards and certificates via Gotenberg with SHA-256 hashes, QR verification endpoints, versioned corrections, and Gemini-powered teacher remark suggestions across 40+ pages.
 
-**Tech Stack:** `Next.js` `React` `TypeScript` `FastAPI` `Python` `PostgreSQL` `Tailwind CSS` `WeasyPrint` `SHA-256` `QR Verification`
+**Tech Stack:** `Next.js 16` `React 19` `FastAPI` `Python` `PostgreSQL 16 (RLS)` `Celery` `Redis` `Gotenberg` `Keycloak` `Tailwind CSS` `Gemini` `SHA-256 QR`
 
 ---
 
@@ -116,18 +116,18 @@ An open-source tool for testing trading strategies and checking how they might p
 
 ---
 
-### 05. Doctor Appointment Scheduling System
-`Healthcare · Web Development · Automation`
+### 05. CPU Scheduling Visualiser — Interactive 3D OS Scheduler
+`Operating Systems · 3D WebGL · Interactive Simulation`
 
-A doctor appointment system that adjusts the schedule when a procedure runs late and helps patients avoid unnecessary waiting.
+An interactive 3D ATX motherboard simulation that visualizes how CPU scheduling algorithms—FCFS, SJF, Priority, and Round Robin—dispatch processes from storage to RAM and onto the CPU core, one event at a time.
 
-- **Adjusts Appointment Times:** Uses procedure durations to update later appointments when delays occur.
-- **Sends Text Messages:** Uses Twilio to notify patients about schedule changes.
-- **Simple Booking Interface:** Provides a dark-themed web interface for doctors to manage schedules and patients to book appointments.
+- **Real-Time 3D Hardware Pipeline:** Procedurally built with React Three Fiber and Three.js; processes travel from the SSD across the board, queue in DDR5 ready-queue slots, and execute on the CPU socket with a live time-slice ring.
+- **Pure TypeScript Scheduling Engine:** Simulates preemptive and non-preemptive FCFS, SJF, Priority, and Round Robin algorithms, backed by 104 Vitest unit tests, a synchronized Gantt chart scrubber, and shareable URL state.
+- **Algorithm Comparison & Metrics:** Benchmarks all four algorithms side-by-side on the same workload—reporting waiting, turnaround, and response times, CPU utilization, context switches, and CSV export.
 
-**Tech Stack:** `Python` `Flask` `HTML` `JavaScript` `SQLite` `Twilio SMS`
+**Tech Stack:** `TypeScript` `React 19` `Three.js` `React Three Fiber` `Zustand` `Vite` `Vitest`
 
-[View Source](https://github.com/Parv-spamz/Parv_Arora_Anshika_Trikha_Doctor_Appointment_Scheduling_System)
+[Live Demo](https://cpu-scheduling-visualiser.netlify.app/#w=0.6.2,0.2.1,0.4.3&a=fcfs&q=2&p=0&h=1) · [View Source](https://github.com/Parv-spamz/CPU-scheduling-visualiser)
 
 ---
 
