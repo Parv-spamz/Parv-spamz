@@ -69,7 +69,11 @@ An end-to-end, reproducible empirical investigation quantifying the non-linear r
 
 **Tech Stack:** `Python` `DuckDB` `Polars` `ECMWF ERA5` `Grid-India SCADA` `LightGBM` `JavaScript` `CSS Glassmorphism` `Pytest`
 
-[View Source](https://github.com/Parv-spamz/HeatToLoad)
+<p align="right">
+  <a href="https://github.com/Parv-spamz/HeatToLoad">
+    <img src="https://img.shields.io/badge/View%20Source-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=161b22" height="30" alt="View Source" />
+  </a>
+</p>
 
 ---
 
@@ -84,7 +88,11 @@ An AI agent that learns to play Clash Royale using match replays and simulated g
 
 **Tech Stack:** `Python` `C++` `Spatial Transformer Model` `PPO Reinforcement Learning` `Android Engine Tools`
 
-[View Source](https://github.com/Parv-spamz/CRoyaleAI)
+<p align="right">
+  <a href="https://github.com/Parv-spamz/CRoyaleAI">
+    <img src="https://img.shields.io/badge/View%20Source-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=161b22" height="30" alt="View Source" />
+  </a>
+</p>
 
 ---
 
@@ -99,7 +107,14 @@ An interactive 3D ATX motherboard simulation that visualizes how CPU scheduling 
 
 **Tech Stack:** `TypeScript` `React 19` `Three.js` `React Three Fiber` `Zustand` `Vite` `Vitest`
 
-[Live Demo](https://cpu-scheduling-visualiser.netlify.app/#w=0.6.2,0.2.1,0.4.3&a=fcfs&q=2&p=0&h=1) · [View Source](https://github.com/Parv-spamz/CPU-scheduling-visualiser)
+<p align="right">
+  <a href="https://cpu-scheduling-visualiser.netlify.app/#w=0.6.2,0.2.1,0.4.3&a=fcfs&q=2&p=0&h=1">
+    <img align="left" src="https://img.shields.io/badge/Live%20Demo-Launch%203D%20App%20%E2%86%97-0284c7?style=for-the-badge&logo=netlify&logoColor=38bdf8&labelColor=0d1117" height="30" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/Parv-spamz/CPU-scheduling-visualiser">
+    <img src="https://img.shields.io/badge/View%20Source-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=161b22" height="30" alt="View Source" />
+  </a>
+</p>
 
 ---
 
@@ -127,7 +142,11 @@ A doctor appointment system that adjusts the schedule when a procedure runs late
 
 **Tech Stack:** `Python` `Flask` `HTML` `JavaScript` `SQLite` `Twilio SMS`
 
-[View Source](https://github.com/Parv-spamz/Parv_Arora_Anshika_Trikha_Doctor_Appointment_Scheduling_System)
+<p align="right">
+  <a href="https://github.com/Parv-spamz/Parv_Arora_Anshika_Trikha_Doctor_Appointment_Scheduling_System">
+    <img src="https://img.shields.io/badge/View%20Source-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=161b22" height="30" alt="View Source" />
+  </a>
+</p>
 
 ---
 
