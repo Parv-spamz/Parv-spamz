@@ -88,7 +88,22 @@ An AI agent that learns to play Clash Royale using match replays and simulated g
 
 ---
 
-### 03. GradeNest — Multi-School Academic Records & Credential Platform
+### 03. CPU Scheduling Visualiser — Interactive 3D OS Scheduler
+`Operating Systems · 3D WebGL · Interactive Simulation`
+
+An interactive 3D ATX motherboard simulation that visualizes how CPU scheduling algorithms—FCFS, SJF, Priority, and Round Robin—dispatch processes from storage to RAM and onto the CPU core, one event at a time.
+
+- **Real-Time 3D Hardware Pipeline:** Procedurally built with React Three Fiber and Three.js; processes travel from the SSD across the board, queue in DDR5 ready-queue slots, and execute on the CPU socket with a live time-slice ring.
+- **Pure TypeScript Scheduling Engine:** Simulates preemptive and non-preemptive FCFS, SJF, Priority, and Round Robin algorithms, backed by 104 Vitest unit tests, a synchronized Gantt chart scrubber, and shareable URL state.
+- **Algorithm Comparison & Metrics:** Benchmarks all four algorithms side-by-side on the same workload—reporting waiting, turnaround, and response times, CPU utilization, context switches, and CSV export.
+
+**Tech Stack:** `TypeScript` `React 19` `Three.js` `React Three Fiber` `Zustand` `Vite` `Vitest`
+
+[Live Demo](https://cpu-scheduling-visualiser.netlify.app/#w=0.6.2,0.2.1,0.4.3&a=fcfs&q=2&p=0&h=1) · [View Source](https://github.com/Parv-spamz/CPU-scheduling-visualiser)
+
+---
+
+### 04. GradeNest — Multi-School Academic Records & Credential Platform
 `[Private Project]` • `Full-Stack Development · Multi-Tenant SaaS · Cryptographic Verification`
 
 A multi-tenant school management platform that brings marks entry, maker-checker review, report card generation, certificates, exams, timetables, and fee ledgers into one database-isolated system.
@@ -101,33 +116,18 @@ A multi-tenant school management platform that brings marks entry, maker-checker
 
 ---
 
-### 04. Tapewright-Quant — Trading Research Tool
-`Quantitative Finance · Trading Simulation · Risk Analysis`
+### 05. Doctor Appointment Scheduling System
+`Healthcare · Web Development · Automation`
 
-An open-source tool for testing trading strategies and checking how they might perform under different market conditions.
+A doctor appointment system that adjusts the schedule when a procedure runs late and helps patients avoid unnecessary waiting.
 
-- **Tests Trading Ideas:** Uses market data to simulate trades and estimate costs such as slippage and execution fees.
-- **Checks Risk:** Analyses portfolio risk and looks for problems that could make a strategy appear better in testing than it really is.
-- **Tracks Experiments:** Records research results so tests can be checked, compared, and repeated.
+- **Adjusts Appointment Times:** Uses procedure durations to update later appointments when delays occur.
+- **Sends Text Messages:** Uses Twilio to notify patients about schedule changes.
+- **Simple Booking Interface:** Provides a dark-themed web interface for doctors to manage schedules and patients to book appointments.
 
-**Tech Stack:** `Python` `Streamlit` `SQLite` `MySQL` `Yahoo Finance` `Alpaca` `Polygon`
+**Tech Stack:** `Python` `Flask` `HTML` `JavaScript` `SQLite` `Twilio SMS`
 
-[View Source](https://github.com/Parv-spamz/Tapewright-quant)
-
----
-
-### 05. CPU Scheduling Visualiser — Interactive 3D OS Scheduler
-`Operating Systems · 3D WebGL · Interactive Simulation`
-
-An interactive 3D ATX motherboard simulation that visualizes how CPU scheduling algorithms—FCFS, SJF, Priority, and Round Robin—dispatch processes from storage to RAM and onto the CPU core, one event at a time.
-
-- **Real-Time 3D Hardware Pipeline:** Procedurally built with React Three Fiber and Three.js; processes travel from the SSD across the board, queue in DDR5 ready-queue slots, and execute on the CPU socket with a live time-slice ring.
-- **Pure TypeScript Scheduling Engine:** Simulates preemptive and non-preemptive FCFS, SJF, Priority, and Round Robin algorithms, backed by 104 Vitest unit tests, a synchronized Gantt chart scrubber, and shareable URL state.
-- **Algorithm Comparison & Metrics:** Benchmarks all four algorithms side-by-side on the same workload—reporting waiting, turnaround, and response times, CPU utilization, context switches, and CSV export.
-
-**Tech Stack:** `TypeScript` `React 19` `Three.js` `React Three Fiber` `Zustand` `Vite` `Vitest`
-
-[Live Demo](https://cpu-scheduling-visualiser.netlify.app/#w=0.6.2,0.2.1,0.4.3&a=fcfs&q=2&p=0&h=1) · [View Source](https://github.com/Parv-spamz/CPU-scheduling-visualiser)
+[View Source](https://github.com/Parv-spamz/Parv_Arora_Anshika_Trikha_Doctor_Appointment_Scheduling_System)
 
 ---
 
